@@ -1,0 +1,1553 @@
+
+[
+{
+"route_id": "13",
+"agency_id": "2",
+"route_short_name": "11",
+"route_long_name": "LA LAGUNA -> EL SAUZAL- POR C/EL CALVARIO DE TACORONTE",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-011"
+},
+{
+"route_id": "14",
+"agency_id": "2",
+"route_short_name": "12",
+"route_long_name": "LA LAGUNA -> EL SAUZAL - POR ZONA CENTRO DE TACORONTE",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-012"
+},
+{
+"route_id": "15",
+"agency_id": "2",
+"route_short_name": "14",
+"route_long_name": "SANTA CRUZ -> LA LAGUNA(POR LA CUESTA)",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-014"
+},
+{
+"route_id": "16",
+"agency_id": "2",
+"route_short_name": "15",
+"route_long_name": "SANTA CRUZ - LA LAGUNA(Express)",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-015"
+},
+{
+"route_id": "17",
+"agency_id": "2",
+"route_short_name": "18",
+"route_long_name": "LA LAGUNA -> AÑAZA -  POR CENTROS COMERCIALES",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-018"
+},
+{
+"route_id": "231",
+"agency_id": "2",
+"route_short_name": "20",
+"route_long_name": "SANTA CRUZ - AEROPUERTO NORTE",
+"route_type": "3",
+"route_color": "FF8000",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-020"
+},
+{
+"route_id": "18",
+"agency_id": "2",
+"route_short_name": "21",
+"route_long_name": "TACORONTE ->STA. CATALINA-> PLAYA MESA DEL MAR",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-021"
+},
+{
+"route_id": "19",
+"agency_id": "2",
+"route_short_name": "23",
+"route_long_name": "TACORONTE -> EL PRIS - POR EL CALVARIO Y GUAYONJE",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-023"
+},
+{
+"route_id": "104",
+"agency_id": "2",
+"route_short_name": "26",
+"route_long_name": "SANTA CRUZ-> LA LAGUNA (POR BARRIO LA SALUD Y FINCA ESPAÑA)",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-026"
+},
+{
+"route_id": "232",
+"agency_id": "2",
+"route_short_name": "30",
+"route_long_name": "PUERTO DE LA CRUZ - AEROPUERTO NORTE",
+"route_type": "3",
+"route_color": "008000",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-030"
+},
+{
+"route_id": "181",
+"agency_id": "2",
+"route_short_name": "32",
+"route_long_name": "FASNIA->PUNTA PRIETA -> LA SOMBRERA",
+"route_type": "3",
+"route_color": "000000",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-032"
+},
+{
+"route_id": "109",
+"agency_id": "2",
+"route_short_name": "33",
+"route_long_name": "GÜIMAR -> FASNIA-> LA SOMBRERA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-033"
+},
+{
+"route_id": "158",
+"agency_id": "2",
+"route_short_name": "34",
+"route_long_name": "EL TABLADO -> GRANADILLA DE ABONA POR FASNIA Y ARICO",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-034"
+},
+{
+"route_id": "20",
+"agency_id": "2",
+"route_short_name": "35",
+"route_long_name": "GÜIMAR -> GRANADILLA DE ABONA  POR FASNIA Y ARICO",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-035"
+},
+{
+"route_id": "159",
+"agency_id": "2",
+"route_short_name": "36",
+"route_long_name": "GÜIMAR -> GRANADILLA DE ABONA POR TF1 Y LOS ROQUES",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-036"
+},
+{
+"route_id": "162",
+"agency_id": "2",
+"route_short_name": "39",
+"route_long_name": "GÜIMAR -> GRANADILLA DE ABONA POR TF1 Y EL TABLADO",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-039"
+},
+{
+"route_id": "234",
+"agency_id": "2",
+"route_short_name": "40",
+"route_long_name": "COSTA ADEJE - LOS CRISTIANOS - AEROPUERTO SUR",
+"route_type": "3",
+"route_color": "FF8040",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-040"
+},
+{
+"route_id": "21",
+"agency_id": "2",
+"route_short_name": "50",
+"route_long_name": "LA LAGUNA -> TEGUESTE -BAJAMAR- PUNTA DEL HIDALGO",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-050"
+},
+{
+"route_id": "22",
+"agency_id": "2",
+"route_short_name": "51",
+"route_long_name": "< > 57  CIRCULAR LA LAGUNA -> TEJINA - TACORONTE- LA LAGUNA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-051"
+},
+{
+"route_id": "23",
+"agency_id": "2",
+"route_short_name": "52",
+"route_long_name": "LA LAGUNA -> LAS TOSCAS->POR EL SOCORRO",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-052"
+},
+{
+"route_id": "24",
+"agency_id": "2",
+"route_short_name": "54",
+"route_long_name": "LA LAGUNA -> RAVELO ->POR AGUA GARCÍA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-054"
+},
+{
+"route_id": "25",
+"agency_id": "2",
+"route_short_name": "55",
+"route_long_name": "LA LAGUNA -> BCO.GRANDE- POR GENETO",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-055"
+},
+{
+"route_id": "26",
+"agency_id": "2",
+"route_short_name": "56",
+"route_long_name": "LA LAGUNA -> BCO.GRANDE->POR LLANO DEL MORO",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-056"
+},
+{
+"route_id": "30",
+"agency_id": "2",
+"route_short_name": "57",
+"route_long_name": "< > 51  CIRCULAR LA LAGUNA -> TEJINA - TACORONTE- LA LAGUNA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-057"
+},
+{
+"route_id": "137",
+"agency_id": "2",
+"route_short_name": "76",
+"route_long_name": "LA LAGUNA -> CARBONERAS -> AFUR",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-076"
+},
+{
+"route_id": "138",
+"agency_id": "2",
+"route_short_name": "77",
+"route_long_name": "LA LAGUNA -> EL BAILADERO -> POR LAS MERCEDES",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-077"
+},
+{
+"route_id": "246",
+"agency_id": "2",
+"route_short_name": "100",
+"route_long_name": "SANTA CRUZ -> PUERTO DE LA CRUZ (DIRECTA)",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-100"
+},
+{
+"route_id": "28",
+"agency_id": "2",
+"route_short_name": "101",
+"route_long_name": "LA LAGUNA -> LA OROTAVA(POR CTRA.GENENERAL)",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-101"
+},
+{
+"route_id": "55",
+"agency_id": "2",
+"route_short_name": "102",
+"route_long_name": "SANTA CRUZ -> PUERTO DE LA CRUZ(POR LAS ARENAS)",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-102"
+},
+{
+"route_id": "29",
+"agency_id": "2",
+"route_short_name": "103",
+"route_long_name": "SANTA CRUZ -> PUERTO DE LA CRUZ(POR EL BOTÁNICO)",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-103"
+},
+{
+"route_id": "156",
+"agency_id": "2",
+"route_short_name": "104",
+"route_long_name": "SANTA CRUZ -> PUERTO DE LA CRUZ (POR TACORONTE)",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-104"
+},
+{
+"route_id": "33",
+"agency_id": "2",
+"route_short_name": "105",
+"route_long_name": "SANTA CRUZ -> PUNTA DEL HIDALGO-POR LA LAGUNA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-105"
+},
+{
+"route_id": "122",
+"agency_id": "2",
+"route_short_name": "106",
+"route_long_name": "SANTA CRUZ -> ICOD DE LOS VINOS(express)",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-106"
+},
+{
+"route_id": "57",
+"agency_id": "2",
+"route_short_name": "108",
+"route_long_name": "SANTA CRUZ - OROTAVA - REALEJOS",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-108"
+},
+{
+"route_id": "34",
+"agency_id": "2",
+"route_short_name": "110",
+"route_long_name": "SANTA CRUZ ->LOS CRISTIANOS-COSTA ADEJE(express)",
+"route_type": "3",
+"route_color": "B02C31",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-110"
+},
+{
+"route_id": "100",
+"agency_id": "2",
+"route_short_name": "111",
+"route_long_name": "SANTA CRUZ->AEROPUERTO SUR-LOS CRISTIANOS-COSTA ADEJE",
+"route_type": "3",
+"route_color": "00FF00",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-111"
+},
+{
+"route_id": "38",
+"agency_id": "2",
+"route_short_name": "120",
+"route_long_name": "SANTA CRUZ -> GÜIMAR-POR CANDELARIA Y EL PUERTITO DE GÜIMAR",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-120"
+},
+{
+"route_id": "39",
+"agency_id": "2",
+"route_short_name": "121",
+"route_long_name": "CANDELARIA->POLÍGONO DE GÜIMAR->ARAFO->GÜIMAR",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-121"
+},
+{
+"route_id": "40",
+"agency_id": "2",
+"route_short_name": "122",
+"route_long_name": "SANTA CRUZ ->LAS CALETILLAS-> CANDELARIA Y POLÍGONO I.DE GÜIMAR",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-122"
+},
+
+{
+"route_id": "42",
+"agency_id": "2",
+"route_short_name": "124",
+"route_long_name": "SANTA CRUZ -> GÜIMAR->POR CANDELARIA Y POLÍGONO I. DE GÜIMAR",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-124"
+},
+{
+"route_id": "111",
+"agency_id": "2",
+"route_short_name": "126",
+"route_long_name": "CANDELARIA - GUAJARA(UNIVERSIDAD) - H.U. LA CANDELARIA - INTERCAMBIADOR SC",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-126"
+},
+{
+"route_id": "110",
+"agency_id": "2",
+"route_short_name": "127",
+"route_long_name": "GÜIMAR -> CANDELARIA -> BCO.HONDO -> IGUESTE -> ARAYA -> GÜIMAR",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-127"
+},
+{
+"route_id": "242",
+"agency_id": "2",
+"route_short_name": "128",
+"route_long_name": "SANTA CRUZ-LA HIDALGA-ARAFO-GUIMAR",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-128"
+},
+{
+"route_id": "43",
+"agency_id": "2",
+"route_short_name": "131",
+"route_long_name": "SANTA CRUZ -> IGUESTE DE CANDELARIA- POR LAS CALETILLAS",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-131"
+},
+{
+"route_id": "45",
+"agency_id": "2",
+"route_short_name": "138",
+"route_long_name": "SANTA CRUZ -> TABAIBA BAJA->POR RADAZUL",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-138"
+},
+{
+"route_id": "1",
+"agency_id": "2",
+"route_short_name": "139",
+"route_long_name": "SANTA CRUZ -> TABAIBA BAJA->POR RADAZUL",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-139"
+},
+{
+"route_id": "4",
+"agency_id": "2",
+"route_short_name": "142",
+"route_long_name": "SANTA CRUZ -> URB. AÑAZA-> URB. ACORÁN-> BARRANCO HONDO",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-142"
+},
+{
+"route_id": "139",
+"agency_id": "2",
+"route_short_name": "201",
+"route_long_name": "INTERCAMBIADOR -> LA VERDELLADA -> INTERCAMBIADOR",
+"route_type": "3",
+"route_color": "9C4392",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-201"
+},
+{
+"route_id": "140",
+"agency_id": "2",
+"route_short_name": "203",
+"route_long_name": "INT. -> S. LÁZARO-> TORNERO-> GAVIAS-> SAN BENITO-> TRINIDAD-> INT.",
+"route_type": "3",
+"route_color": "9C4392",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-203"
+},
+{
+"route_id": "141",
+"agency_id": "2",
+"route_short_name": "204",
+"route_long_name": "INT.-P. DEL CRISTO-EL BRONCO-LOMO LARGO-EL RAYO-URB.AGUERE-TRINIDAD-INT.",
+"route_type": "3",
+"route_color": "9C4392",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-204"
+},
+{
+"route_id": "142",
+"agency_id": "2",
+"route_short_name": "206",
+"route_long_name": "INT.- LA VERDELLADA- PLAZA DEL CRISTO- RANCHO GRANDE- SAN BENITO- INT.",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-206"
+},
+{
+"route_id": "135",
+"agency_id": "2",
+"route_short_name": "217",
+"route_long_name": "INTERCAMBIADOR-> LOS ANDENES-EL CARDONAL- H.U.C",
+"route_type": "3",
+"route_color": "9C4392",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-217"
+},
+{
+"route_id": "134",
+"agency_id": "2",
+"route_short_name": "219",
+"route_long_name": "INTERCAMBIADOR-> EL CARDONAL->TACO->SAN MATIAS",
+"route_type": "3",
+"route_color": "9C4392",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-219"
+},
+{
+"route_id": "136",
+"agency_id": "2",
+"route_short_name": "224",
+"route_long_name": "INTERCAMBIADOR-V.GUERRA-TEJINA POR EL BOQUERON-PTA. DEL HIDALGO",
+"route_type": "3",
+"route_color": "9C4392",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-224"
+},
+{
+"route_id": "46",
+"agency_id": "2",
+"route_short_name": "228",
+"route_long_name": "SANTA CRUZ -> LOS CAMPITOS-POR LA CUESTA",
+"route_type": "3",
+"route_color": "9C4392",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-228"
+},
+{
+"route_id": "118",
+"agency_id": "2",
+"route_short_name": "231",
+"route_long_name": "INTERCAMBIADOR-LA GALLEGA (DIRECTO)",
+"route_type": "3",
+"route_color": "9C4392",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-231"
+},
+{
+"route_id": "47",
+"agency_id": "2",
+"route_short_name": "232",
+"route_long_name": "SANTA CRUZ -> EL CARDONAL-LA GALLEGA",
+"route_type": "3",
+"route_color": "9C4392",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-232"
+},
+{
+"route_id": "48",
+"agency_id": "2",
+"route_short_name": "233",
+"route_long_name": "SANTA CRUZ -> EL CARDONAL ->FINCA ESPAÑA",
+"route_type": "3",
+"route_color": "9C4392",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-233"
+},
+{
+"route_id": "52",
+"agency_id": "2",
+"route_short_name": "238",
+"route_long_name": "SANTA CRUZ -> SAN MATIAS - POR CHAMBERÍ",
+"route_type": "3",
+"route_color": "9C4392",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-238"
+},
+{
+"route_id": "132",
+"agency_id": "2",
+"route_short_name": "253",
+"route_long_name": "INTERCAMBIADOR -> GUAMASA -> GARIMBA",
+"route_type": "3",
+"route_color": "9C4392",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-253"
+},
+{
+"route_id": "133",
+"agency_id": "2",
+"route_short_name": "260",
+"route_long_name": "INTERCAMBIADOR ->LOS BALDÍOS-> EL CENTENERO-> LLANO DEL MORO",
+"route_type": "3",
+"route_color": "9C4392",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-260"
+},
+{
+"route_id": "144",
+"agency_id": "2",
+"route_short_name": "270",
+"route_long_name": "INTERCAMBIADOR - LAS MERCEDES (POR LAS CANTERAS)",
+"route_type": "3",
+"route_color": "9C4392",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-270"
+},
+{
+"route_id": "130",
+"agency_id": "2",
+"route_short_name": "271",
+"route_long_name": "INTERCAMBIADOR -> EL CAMINO-> CRUZ DE ÁLAMOS-> LAS MERCEDES",
+"route_type": "3",
+"route_color": "9C4392",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-271"
+},
+{
+"route_id": "131",
+"agency_id": "2",
+"route_short_name": "273",
+"route_long_name": "INTERCAMBIADOR -> CRUZ DEL CARMEN ->POR LAS MERCEDES",
+"route_type": "3",
+"route_color": "9C4392",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-273"
+},
+{
+"route_id": "129",
+"agency_id": "2",
+"route_short_name": "274",
+"route_long_name": "INTERCAMBIADOR -> EL BATÁN ->POR LAS MERCEDES",
+"route_type": "3",
+"route_color": "9C4392",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-274"
+},
+{
+"route_id": "143",
+"agency_id": "2",
+"route_short_name": "275",
+"route_long_name": "INTERCAMBIADOR -  LAS CARBONERAS - TABORNO",
+"route_type": "3",
+"route_color": "9C4392",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-275"
+},
+{
+"route_id": "60",
+"agency_id": "2",
+"route_short_name": "325",
+"route_long_name": "PUERTO DE LA CRUZ -> A. LOS GIGANTES- POR ICOD DE LOS VINOS",
+"route_type": "3",
+"route_color": "69BFAE",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-325"
+},
+{
+"route_id": "116",
+"agency_id": "2",
+"route_short_name": "330",
+"route_long_name": "(CIRCUNVALACIÓN)LOS REALEJOS – SAN VICENTE – LAS LLANADAS",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-330"
+},
+{
+"route_id": "245",
+"agency_id": "2",
+"route_short_name": "341",
+"route_long_name": "PARADOR DEL TEIDE->TELEFERICO->EL PORTILLO",
+"route_type": "3",
+"route_color": "000000",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-341"
+},
+{
+"route_id": "101",
+"agency_id": "2",
+"route_short_name": "342",
+"route_long_name": "COSTA ADEJE ->CAÑADAS DEL TEIDE-> EL PORTILLO",
+"route_type": "3",
+"route_color": "0000FF",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-342"
+},
+{
+"route_id": "62",
+"agency_id": "2",
+"route_short_name": "343",
+"route_long_name": "PTO. CRUZ <->LOS CRISTIANOS(Por Aeropuertos Norte y Sur)(express)",
+"route_type": "3",
+"route_color": "FF0080",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-343"
+},
+{
+"route_id": "63",
+"agency_id": "2",
+"route_short_name": "345",
+"route_long_name": "PTO. DE LA  CRUZ -> OROTAVA-AGUAMANSA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-345"
+},
+{
+"route_id": "235",
+"agency_id": "2",
+"route_short_name": "346",
+"route_long_name": "ESTACIÓN LA OROTAVA - AGUAMANSA",
+"route_type": "3",
+"route_color": "FF0000",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-346"
+},
+{
+"route_id": "64",
+"agency_id": "2",
+"route_short_name": "347",
+"route_long_name": "LA OROTAVA -> REALEJO ALTO - POR BENIJOS Y PALO BLANCO",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-347"
+},
+{
+"route_id": "65",
+"agency_id": "2",
+"route_short_name": "348",
+"route_long_name": "PTO. CRUZ<->EL PORTILLO<->CAÑADAS DEL TEIDE",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-348"
+},
+{
+"route_id": "244",
+"agency_id": "2",
+"route_short_name": "351",
+"route_long_name": "PTO. DE LA CRUZ -> OROTAVA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-351"
+},
+{
+"route_id": "67",
+"agency_id": "2",
+"route_short_name": "352",
+"route_long_name": "CIRCUNVALACIÓN OROTAVA -> REALEJOS",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-352"
+},
+{
+"route_id": "68",
+"agency_id": "2",
+"route_short_name": "353",
+"route_long_name": "CIRCUNVALACIÓN CIRCUNVALACIÓN REALEJOS -> OROTAVA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-353"
+},
+{
+"route_id": "69",
+"agency_id": "2",
+"route_short_name": "354",
+"route_long_name": "REALEJOS -> ICOD DE LOS VINOS ->POR LA GUANCHA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-354"
+},
+{
+"route_id": "70",
+"agency_id": "2",
+"route_short_name": "355",
+"route_long_name": "BUENAVISTA -> MASCA -> VALLE SANTIAGO",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-355"
+},
+{
+"route_id": "128",
+"agency_id": "2",
+"route_short_name": "357",
+"route_long_name": "ESTACIÓN DE ICOD->AVDA.PRÍNCIPES DE ESPAÑA->HOSPITAL DEL NORTE",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-357"
+},
+{
+"route_id": "71",
+"agency_id": "2",
+"route_short_name": "358",
+"route_long_name": "ICOD DE LOS VINOS -> SANTA BÁRBARA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-358"
+},
+{
+"route_id": "72",
+"agency_id": "2",
+"route_short_name": "360",
+"route_long_name": "ICOD DE LOS VINOS -> PUERTO DE ERJOS",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-360"
+},
+{
+"route_id": "73",
+"agency_id": "2",
+"route_short_name": "362",
+"route_long_name": "ICOD DE LOS VINOS -> PLAYA SAN MARCOS",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-362"
+},
+{
+"route_id": "74",
+"agency_id": "2",
+"route_short_name": "363",
+"route_long_name": "PUERTO DE LA CRUZ -> BUENAVISTA ->POR ICOD DE LOS VINOS",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-363"
+},
+{
+"route_id": "75",
+"agency_id": "2",
+"route_short_name": "364",
+"route_long_name": "ICOD ->HOSPITAL DEL NORTE->LA GUANCHA -> S. JUAN DE LA RAMBLA ->POR SAN JOSÉ",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-364"
+},
+{
+"route_id": "160",
+"agency_id": "2",
+"route_short_name": "365",
+"route_long_name": "BUENAVISTA -> MASCA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-365"
+},
+{
+"route_id": "76",
+"agency_id": "2",
+"route_short_name": "366",
+"route_long_name": "BUENAVISTA <->EL PALMAR<-> LAS PORTELAS",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-366"
+},
+{
+"route_id": "226",
+"agency_id": "2",
+"route_short_name": "369",
+"route_long_name": "BUENAVISTA - PUNTA DE TENO",
+"route_type": "3",
+"route_color": "0000FF",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-369"
+},
+{
+"route_id": "112",
+"agency_id": "2",
+"route_short_name": "372",
+"route_long_name": "LAS DEHESAS->URB.MAYORAZGO->SAN ANTONIO->LA PIEDAD",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-372"
+},
+{
+"route_id": "105",
+"agency_id": "2",
+"route_short_name": "373",
+"route_long_name": "LAS DEHESAS-LA FLORIDA-CAMINO POLO- LA PIEDAD-LAS DEHESAS",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-373"
+},
+{
+"route_id": "106",
+"agency_id": "2",
+"route_short_name": "376",
+"route_long_name": "LAS DEHESAS-PLAYA DE EL RINCÓN-LAS DEHESAS",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-376"
+},
+{
+"route_id": "6",
+"agency_id": "2",
+"route_short_name": "380",
+"route_long_name": "LA CORUJERA -> TIGAIGA - POR LA OROTAVA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-380"
+},
+{
+"route_id": "107",
+"agency_id": "2",
+"route_short_name": "381",
+"route_long_name": "PLAZA REYES CATÓLICOS- PUNTA BRAVA(LORO PARQUE)-LA LONGUERA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-381"
+},
+{
+"route_id": "108",
+"agency_id": "2",
+"route_short_name": "382",
+"route_long_name": "PLAZA REYES CATÓLICOS- Bº SAN ANTONIO-POR PLAZA DEL CHARCO Y MERCADO",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-382"
+},
+{
+"route_id": "102",
+"agency_id": "2",
+"route_short_name": "383",
+"route_long_name": "PUERTO DE LA CRUZ -> LA VERA - POR LAS ARENAS",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-383"
+},
+{
+"route_id": "77",
+"agency_id": "2",
+"route_short_name": "390",
+"route_long_name": "PUERTO DE LA CRUZ -> REALEJO ALTO - POR LA MONTAÑA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-390"
+},
+{
+"route_id": "54",
+"agency_id": "2",
+"route_short_name": "392",
+"route_long_name": "ICOD DE LOS VINOS -> PUERTO DE ERJOS - POR EL TANQUE",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-392"
+},
+{
+"route_id": "163",
+"agency_id": "2",
+"route_short_name": "408",
+"route_long_name": "GRANADILLA -> SAN ISIDRO -> EL MÉDANO",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-408"
+},
+{
+"route_id": "164",
+"agency_id": "2",
+"route_short_name": "409",
+"route_long_name": "SAN MIGUEL -> GRANADILLA ->SAN ISIDRO -> EL MÉDANO",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-409"
+},
+{
+"route_id": "165",
+"agency_id": "2",
+"route_short_name": "410",
+"route_long_name": "IES GRANADILLA ->SAN ISIDRO -> EL MÉDANO-> LOS ABRIGOS",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-410"
+},
+{
+"route_id": "166",
+"agency_id": "2",
+"route_short_name": "411",
+"route_long_name": "GRANADILLA ->SAN ISIDRO -> EL MÉDANO-> MONTAÑA PELADA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-411"
+},
+{
+"route_id": "167",
+"agency_id": "2",
+"route_short_name": "412",
+"route_long_name": "GRANADILLA -> ROTONDA TF-1 SAN ISIDRO",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-412"
+},
+{
+"route_id": "168",
+"agency_id": "2",
+"route_short_name": "415",
+"route_long_name": "EL FRAILE -> AEROPUERTO SUR -> SAN ISIDRO POR LAS GALLETAS",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-415"
+},
+{
+"route_id": "79",
+"agency_id": "2",
+"route_short_name": "416",
+"route_long_name": "GRANADILLA ->  LOS CRISTIANOS",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-416"
+},
+{
+"route_id": "9",
+"agency_id": "2",
+"route_short_name": "417",
+"route_long_name": "COSTA ADEJE -> GUÍA DE ISORA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-417"
+},
+{
+"route_id": "117",
+"agency_id": "2",
+"route_short_name": "418",
+"route_long_name": "ESTACIÓN COSTA ADEJE-LOS CRISTIANOS-VALLE SAN LORENZO",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-418"
+},
+{
+"route_id": "169",
+"agency_id": "2",
+"route_short_name": "419",
+"route_long_name": "IES GRANADILLA -> LA ESCALONA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-419"
+},
+{
+"route_id": "170",
+"agency_id": "2",
+"route_short_name": "420",
+"route_long_name": "COSTA ADEJE (ESTACIÓN) -> VALLE SAN LORENZO",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-420"
+},
+{
+"route_id": "171",
+"agency_id": "2",
+"route_short_name": "421",
+"route_long_name": "VALLE SAN LORENZO -> CAMELLA -> CABO BLANCO -> IES LAS GALLETAS",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-421"
+},
+{
+"route_id": "228",
+"agency_id": "2",
+"route_short_name": "424",
+"route_long_name": "LOS CRISTIANOS ->  EL DUQUE",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-424"
+},
+{
+"route_id": "80",
+"agency_id": "2",
+"route_short_name": "430",
+"route_long_name": "GRANADILLA -> SAN ISIDRO -VILLA DE ARICO-EL PORÍS",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-430"
+},
+{
+"route_id": "172",
+"agency_id": "2",
+"route_short_name": "447",
+"route_long_name": "LOS CRISTIANOS ->COSTA ADEJE ->EL CERCO ->ADEJE (LAS TORRES)",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-447"
+},
+{
+"route_id": "173",
+"agency_id": "2",
+"route_short_name": "448",
+"route_long_name": "ADEJE (EL CERCO-LAS TORRES) -> LA CALETA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-448"
+},
+{
+"route_id": "99",
+"agency_id": "2",
+"route_short_name": "450",
+"route_long_name": "COSTA ADEJE -> SAN ISIDRO",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-450"
+},
+{
+"route_id": "81",
+"agency_id": "2",
+"route_short_name": "460",
+"route_long_name": "ICOD DE LOS VINOS -> COSTA ADEJE - POR GUÍA DE ISORA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-460"
+},
+{
+"route_id": "175",
+"agency_id": "2",
+"route_short_name": "461",
+"route_long_name": "ACANTILADO DE LOS GIGANTES -> ARGUAYO",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-461"
+},
+{
+"route_id": "82",
+"agency_id": "2",
+"route_short_name": "462",
+"route_long_name": "GUIA DE ISORA -> A. LOS GIGANTES - POR TAMAIMO",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-462"
+},
+{
+"route_id": "145",
+"agency_id": "2",
+"route_short_name": "463",
+"route_long_name": "GRANADILLA-LOS BLANQUITOS-CHIMICHE",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-463"
+},
+{
+"route_id": "83",
+"agency_id": "2",
+"route_short_name": "467",
+"route_long_name": "COSTA ADEJE -> LAS GALLETAS ->POR LOS CRISTIANOS",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-467"
+},
+{
+"route_id": "119",
+"agency_id": "2",
+"route_short_name": "468",
+"route_long_name": "PARQUE LA REINA->LAS GALLETAS->PARQUE LA REINA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-468"
+},
+{
+"route_id": "84",
+"agency_id": "2",
+"route_short_name": "470",
+"route_long_name": "LOS CRISTIANOS -  EL MÉDANO",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-470"
+},
+{
+"route_id": "8",
+"agency_id": "2",
+"route_short_name": "471",
+"route_long_name": "LOS CRISTIANOS - ESTACIÓN COSTA ADEJE - PLAYA PARAÍSO",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-471"
+},
+{
+"route_id": "85",
+"agency_id": "2",
+"route_short_name": "473",
+"route_long_name": "LOS CRISTIANOS-> LOS GIGANTES- POR ADEJE",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-473"
+},
+{
+"route_id": "86",
+"agency_id": "2",
+"route_short_name": "474",
+"route_long_name": "GRANADILLA -> LA ESCALONA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-474"
+},
+{
+"route_id": "240",
+"agency_id": "2",
+"route_short_name": "475",
+"route_long_name": "GRANADILLA -> CRUZ DE TEA -> GRANADILLA",
+"route_type": "3",
+"route_color": "000000",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-475"
+},
+{
+"route_id": "115",
+"agency_id": "2",
+"route_short_name": "477",
+"route_long_name": "ESTACIÓN COSTA ADEJES->LOS GIGANTES(DIRECTO)",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-477"
+},
+{
+"route_id": "87",
+"agency_id": "2",
+"route_short_name": "480",
+"route_long_name": "ARONA -> LOS CRISTIANOS-POR LA CAMELLA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-480"
+},
+{
+"route_id": "88",
+"agency_id": "2",
+"route_short_name": "482",
+"route_long_name": "LOS CRISTIANOS->VILAFLOR- POR ARONA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-482"
+},
+{
+"route_id": "10",
+"agency_id": "2",
+"route_short_name": "483",
+"route_long_name": "COSTA ADEJE -> EL MÉDANO- POR LOS CRISTIANOS",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-483"
+},
+{
+"route_id": "89",
+"agency_id": "2",
+"route_short_name": "484",
+"route_long_name": "GRANADILLA ->LAS CHAFIRAS",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-484"
+},
+{
+"route_id": "176",
+"agency_id": "2",
+"route_short_name": "486",
+"route_long_name": "GRANADILLA -> SAN MIGUEL -> ALDEA BLANCA -> LAS CHAFIRAS -> EL FRAILE",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-486"
+},
+{
+"route_id": "113",
+"agency_id": "2",
+"route_short_name": "490",
+"route_long_name": "GUÍA DE ISORA-VERA DE ERQUES  POR TEJINA DE GUÍA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-490"
+},
+{
+"route_id": "114",
+"agency_id": "2",
+"route_short_name": "492",
+"route_long_name": "GUÍA DE ISORA-CHIO  POR CHIGUERGUE",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-492"
+},
+{
+"route_id": "91",
+"agency_id": "2",
+"route_short_name": "493",
+"route_long_name": "GUIA DE ISORA -> A. LOS GIGANTES-POR ALCALÁ",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-493"
+},
+{
+"route_id": "177",
+"agency_id": "2",
+"route_short_name": "494",
+"route_long_name": "GUÍA DE ISORA (C/ DEl CAMPO)-> LOS GIGANTES (POR PIEDRA HINCADA)",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-494"
+},
+{
+"route_id": "124",
+"agency_id": "2",
+"route_short_name": "546",
+"route_long_name": "REALEJO ALTO->REALEJO BAJO->SAN AGUSTÍN-> PLAYA DEL SOCORRO",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-546"
+},
+{
+"route_id": "121",
+"agency_id": "2",
+"route_short_name": "610",
+"route_long_name": "CIRCUITO UNIVERSITARIO DE LA LAGUNA",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-610"
+},
+{
+"route_id": "178",
+"agency_id": "2",
+"route_short_name": "711",
+"route_long_name": "SANTA CRUZ ->AEROPUERTO SUR - LOS CRISTIANOS - COSTA ADEJE (NOCTURNO)",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-711"
+},
+{
+"route_id": "151",
+"agency_id": "2",
+"route_short_name": "901",
+"route_long_name": "INTERCAMBIADOR - B.SALUD (CUESTA PIEDRA) (POR MIRAFLORES  RAMÓN Y CAJAL)",
+"route_type": "3",
+"route_color": "3380CA",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-901"
+},
+{
+"route_id": "126",
+"agency_id": "2",
+"route_short_name": "902",
+"route_long_name": "INTERCAMBIADOR- PLAZA LOS PATOS - BARRIO NUEVO",
+"route_type": "3",
+"route_color": "3380CA",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-902"
+},
+{
+"route_id": "7",
+"agency_id": "2",
+"route_short_name": "903",
+"route_long_name": "MUELLE NORTE - RAMBLAS - GARCÍA ESCÁMEZ - MORADITAS (PARTE BAJA)",
+"route_type": "3",
+"route_color": "3380CA",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-903"
+},
+{
+"route_id": "125",
+"agency_id": "2",
+"route_short_name": "904",
+"route_long_name": "PLAZA WEYLER-PUENTE ZURITA-Bº LA SALUD-VUELTA LOS PÁJAROS- OFRA-LAS RETAMAS",
+"route_type": "3",
+"route_color": "3380CA",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-904"
+},
+{
+"route_id": "148",
+"agency_id": "2",
+"route_short_name": "905",
+"route_long_name": "MUELLE NORTE - OFRA",
+"route_type": "3",
+"route_color": "3380CA",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-905"
+},
+{
+"route_id": "31",
+"agency_id": "2",
+"route_short_name": "906",
+"route_long_name": "INTERCAMBIADOR -> BARRIO LA SALUD(CUESTA PIEDRA) (POR BENITO PÉREZ ARMAS)",
+"route_type": "3",
+"route_color": "3380CA",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-906"
+},
+{
+"route_id": "92",
+"agency_id": "2",
+"route_short_name": "908",
+"route_long_name": "INTERCAMBIADOR -> BARRIO DE OFRA-LAS RETAMAS -> INTERCAMBIADOR",
+"route_type": "3",
+"route_color": "3380C8",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-908"
+},
+{
+"route_id": "32",
+"agency_id": "2",
+"route_short_name": "909",
+"route_long_name": "INTERCAMBIADOR -> BARRIO DE LA ALEGRÍA",
+"route_type": "3",
+"route_color": "3380CA",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-909"
+},
+{
+"route_id": "93",
+"agency_id": "2",
+"route_short_name": "910",
+"route_long_name": "INTERCAMBIADOR -> SAN ANDRÉS->PLAYA DE LAS TERESITAS",
+"route_type": "3",
+"route_color": "1280CB",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-910"
+},
+{
+"route_id": "94",
+"agency_id": "2",
+"route_short_name": "911",
+"route_long_name": "MUELLE NORTE - RAMBLAS - CRUZ DEL SEÑOR - BARRIO DE LA SALUD - CUESTA PIEDRA",
+"route_type": "3",
+"route_color": "1280CC",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-911"
+},
+{
+"route_id": "95",
+"agency_id": "2",
+"route_short_name": "912",
+"route_long_name": "INTERCAMBIADOR -> IFARA-> LOS CAMPITOS",
+"route_type": "3",
+"route_color": "1280CD",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-912"
+},
+{
+"route_id": "96",
+"agency_id": "2",
+"route_short_name": "914",
+"route_long_name": "INTERCAMBIADOR -> PLAZA WEYLER-> C/EL PILAR->PLAZA DE ESPAÑA -> INTERCAMBIADOR",
+"route_type": "3",
+"route_color": "1280CE",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-914"
+},
+{
+"route_id": "97",
+"agency_id": "2",
+"route_short_name": "916",
+"route_long_name": "INTERCAMBIADOR ->MARÍA JIMÉMEZ-> LOS VALLES",
+"route_type": "3",
+"route_color": "1280CF",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-916"
+},
+{
+"route_id": "98",
+"agency_id": "2",
+"route_short_name": "917",
+"route_long_name": "INTERCAMBIADOR -> VALLESECO(LA QUEBRADA)",
+"route_type": "3",
+"route_color": "1280D0",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-917"
+},
+{
+"route_id": "147",
+"agency_id": "2",
+"route_short_name": "919",
+"route_long_name": "INTERCAMBIADOR - B. LA SALUD - CUESTA PIEDRA(POR VÍA BCO.DE SANTOS)",
+"route_type": "3",
+"route_color": "1280D1",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-919"
+},
+{
+"route_id": "11",
+"agency_id": "2",
+"route_short_name": "920",
+"route_long_name": "INTERCAMBIADOR - PLAZA DE ESPAÑA - LA MARINA - RAMBLAS - REYES CATÓLICOS-TRES DE MAYO- INTERCAMBIADOR",
+"route_type": "3",
+"route_color": "1280D2",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-920"
+},
+{
+"route_id": "12",
+"agency_id": "2",
+"route_short_name": "921",
+"route_long_name": "INTERCAMBIADOR ->AVENIDA REYES CATÓLICOS-> INTERCAMBIADOR",
+"route_type": "3",
+"route_color": "1280D3",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-921"
+},
+{
+"route_id": "146",
+"agency_id": "2",
+"route_short_name": "923",
+"route_long_name": "MUELLE NORTE -> RAMBLAS -> MORADITAS (PARTE BAJA)",
+"route_type": "3",
+"route_color": "1280D4",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-923"
+},
+{
+"route_id": "44",
+"agency_id": "2",
+"route_short_name": "933",
+"route_long_name": "TACO - BCO. GRANDE - CRUCE STA. MARIA - EL TABLERO",
+"route_type": "3",
+"route_color": "1280D5",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-933"
+},
+{
+"route_id": "49",
+"agency_id": "2",
+"route_short_name": "934",
+"route_long_name": "CIRCULAR INTERCAMBIADOR - TACO - STA. MARIA DEL MAR - AÑAZA - INTERCAMBIADOR",
+"route_type": "3",
+"route_color": "676767",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-934"
+},
+{
+"route_id": "50",
+"agency_id": "2",
+"route_short_name": "935",
+"route_long_name": "INTERCAMBIADOR SANTA CRUZ - URB. AÑAZA - ALISIOS - STA. MARIA DEL MAR",
+"route_type": "3",
+"route_color": "1280D7",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-935"
+},
+{
+"route_id": "127",
+"agency_id": "2",
+"route_short_name": "936",
+"route_long_name": "< > 934 CIRCULAR INTERCAMBIADOR -AÑAZA-STA.MARÍA DEL MAR- TACO - INTERCAMBIADOR",
+"route_type": "3",
+"route_color": "008000",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-936"
+},
+{
+"route_id": "51",
+"agency_id": "2",
+"route_short_name": "937",
+"route_long_name": "SANTA CRUZ(Intercambiador) ->TACO-> TINCER-> CRUCE EL SOBRADILLO",
+"route_type": "3",
+"route_color": "1280D9",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-937"
+},
+{
+"route_id": "53",
+"agency_id": "2",
+"route_short_name": "939",
+"route_long_name": "TACO - EL SOBRADILLO - LLANO DEL MORO",
+"route_type": "3",
+"route_color": "1280DA",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-939"
+},
+{
+"route_id": "2",
+"agency_id": "2",
+"route_short_name": "940",
+"route_long_name": "INTERCAMBIADOR - URB.ACORÁN - URB. COSTANERA",
+"route_type": "3",
+"route_color": "1280DB",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-940"
+},
+{
+"route_id": "3",
+"agency_id": "2",
+"route_short_name": "941",
+"route_long_name": "INTERCAMBIADOR - URB. AÑAZA - ACORAN - BOCA CANGREJO",
+"route_type": "3",
+"route_color": "1280DC",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-941"
+},
+{
+"route_id": "5",
+"agency_id": "2",
+"route_short_name": "944",
+"route_long_name": "EL TABLERO - LA GALLEGA - AVDA.HESPERIDES - TINCER - TACO",
+"route_type": "3",
+"route_color": "1280DD",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-944"
+},
+{
+"route_id": "123",
+"agency_id": "2",
+"route_short_name": "945",
+"route_long_name": "SANTA CRUZ - SAN ANDRES - IGUESTE DE SAN ANDRÉS",
+"route_type": "3",
+"route_color": "1280DE",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-945"
+},
+{
+"route_id": "58",
+"agency_id": "2",
+"route_short_name": "946",
+"route_long_name": "SANTA CRUZ - SAN ANDRES - TAGANANA - ALMÁCIGA",
+"route_type": "3",
+"route_color": "1280DF",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-946"
+},
+{
+"route_id": "59",
+"agency_id": "2",
+"route_short_name": "947",
+"route_long_name": "INTERCAMBIADOR - SAN ANDRES - BAILADERO - CHAMORGA",
+"route_type": "3",
+"route_color": "1280E0",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-947"
+},
+{
+"route_id": "149",
+"agency_id": "2",
+"route_short_name": "971",
+"route_long_name": "INTERCAMBIADOR - BARRIO SALUD - OFRA (NOCTURNA)",
+"route_type": "3",
+"route_color": "1280E1",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-971"
+},
+{
+"route_id": "150",
+"agency_id": "2",
+"route_short_name": "972",
+"route_long_name": "INTERCAMBIADOR - B. SALUD (CUESTA PIEDRA) (NOCTURNO)",
+"route_type": "3",
+"route_color": "1280E2",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-972"
+},
+{
+"route_id": "238",
+"agency_id": "2",
+"route_short_name": "974",
+"route_long_name": "SANTA CRUZ - SANTA MARÍA - AÑAZA (NOCTURNO)",
+"route_type": "3",
+"route_color": "000000",
+"route_url": "http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-974"
+}
+]
+

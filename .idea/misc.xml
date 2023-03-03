@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Clase/PGL - MULTIMEDIA Y DISPOSITIVOS MOVILES/Proyecto final de trimestre/PracticaGuiada/app/src/main/res/drawable/bordes.xml" value="0.37037037037037035" />
+        <entry key="..\:/Clase/PGL - MULTIMEDIA Y DISPOSITIVOS MOVILES/Proyecto final de trimestre/PracticaGuiada/app/src/main/res/drawable/dummybug.xml" value="0.37037037037037035" />
+        <entry key="..\:/Clase/PGL - MULTIMEDIA Y DISPOSITIVOS MOVILES/Proyecto final de trimestre/PracticaGuiada/app/src/main/res/drawable/roundedbutton.xml" value="0.37037037037037035" />
+        <entry key="..\:/Clase/PGL - MULTIMEDIA Y DISPOSITIVOS MOVILES/Proyecto final de trimestre/PracticaGuiada/app/src/main/res/drawable/topborder.xml" value="0.3779487179487179" />
+        <entry key="..\:/Clase/PGL - MULTIMEDIA Y DISPOSITIVOS MOVILES/Proyecto final de trimestre/PracticaGuiada/app/src/main/res/layout/activity_escaner.xml" value="0.36770833333333336" />
+        <entry key="..\:/Clase/PGL - MULTIMEDIA Y DISPOSITIVOS MOVILES/Proyecto final de trimestre/PracticaGuiada/app/src/main/res/layout/activity_lector_qr.xml" value="0.33" />
+        <entry key="..\:/Clase/PGL - MULTIMEDIA Y DISPOSITIVOS MOVILES/Proyecto final de trimestre/PracticaGuiada/app/src/main/res/layout/activity_listado.xml" value="0.36770833333333336" />
+        <entry key="..\:/Clase/PGL - MULTIMEDIA Y DISPOSITIVOS MOVILES/Proyecto final de trimestre/PracticaGuiada/app/src/main/res/layout/activity_maps.xml" value="0.36770833333333336" />
+        <entry key="..\:/Clase/PGL - MULTIMEDIA Y DISPOSITIVOS MOVILES/Proyecto final de trimestre/PracticaGuiada/app/src/main/res/layout/activity_mostrar_favoritos.xml" value="0.36770833333333336" />
+        <entry key="..\:/Clase/PGL - MULTIMEDIA Y DISPOSITIVOS MOVILES/Proyecto final de trimestre/PracticaGuiada/app/src/main/res/layout/activity_mostrar_guagua.xml" value="0.36770833333333336" />
+        <entry key="..\:/Clase/PGL - MULTIMEDIA Y DISPOSITIVOS MOVILES/Proyecto final de trimestre/PracticaGuiada/app/src/main/res/layout/activity_mostrar_tiempo_parada.xml" value="0.221875" />
+        <entry key="..\:/Clase/PGL - MULTIMEDIA Y DISPOSITIVOS MOVILES/Proyecto final de trimestre/PracticaGuiada/app/src/main/res/layout/activity_navegador_horario.xml" value="0.36770833333333336" />
+        <entry key="..\:/Clase/PGL - MULTIMEDIA Y DISPOSITIVOS MOVILES/Proyecto final de trimestre/PracticaGuiada/app/src/main/res/layout/diseno_lista_estacionarios.xml" value="0.36770833333333336" />
+        <entry key="..\:/Clase/PGL - MULTIMEDIA Y DISPOSITIVOS MOVILES/Proyecto final de trimestre/PracticaGuiada/app/src/main/res/layout/diseno_lista_horario.xml" value="0.33" />
+        <entry key="..\:/Clase/PGL - MULTIMEDIA Y DISPOSITIVOS MOVILES/Proyecto final de trimestre/PracticaGuiada/app/src/main/res/layout/diseno_lista_paradas.xml" value="0.36770833333333336" />
+        <entry key="..\:/Clase/PGL - MULTIMEDIA Y DISPOSITIVOS MOVILES/Proyecto final de trimestre/PracticaGuiada/app/src/main/res/layout/fragment_favoritos.xml" value="0.36770833333333336" />
+        <entry key="..\:/Clase/PGL - MULTIMEDIA Y DISPOSITIVOS MOVILES/Proyecto final de trimestre/PracticaGuiada/app/src/main/res/layout/fragment_guaguas.xml" value="0.33" />
+        <entry key="..\:/Clase/PGL - MULTIMEDIA Y DISPOSITIVOS MOVILES/Proyecto final de trimestre/PracticaGuiada/app/src/main/res/layout/fragment_horarios.xml" value="0.3560262228946041" />
+        <entry key="..\:/Clase/PGL - MULTIMEDIA Y DISPOSITIVOS MOVILES/Proyecto final de trimestre/PracticaGuiada/app/src/main/res/layout/fragment_listado.xml" value="0.36770833333333336" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/drawable-anydpi/flecha_atras.xml" value="0.38385416666666666" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/drawable-anydpi/icon_arrow_left.xml" value="0.38385416666666666" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/drawable-anydpi/icon_arrow_up.xml" value="0.38385416666666666" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/drawable-anydpi/icon_change_theme.xml" value="0.38385416666666666" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/drawable-anydpi/icon_ver_mas.xml" value="0.38385416666666666" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/drawable-anydpi/icono_ajustes.xml" value="0.38385416666666666" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/drawable-anydpi/icono_app.xml" value="0.38385416666666666" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/drawable-anydpi/icono_buscar.xml" value="0.38385416666666666" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/drawable-anydpi/icono_camara.xml" value="0.38385416666666666" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/drawable-anydpi/icono_capas.xml" value="0.38385416666666666" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/drawable-anydpi/icono_estacion.xml" value="0.38385416666666666" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/drawable-anydpi/icono_llamada.xml" value="0.38385416666666666" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/drawable-anydpi/icono_planificador_viajes.xml" value="0.38385416666666666" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/drawable-anydpi/icono_puntos_venta.xml" value="0.38385416666666666" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/drawable-anydpi/icono_ultimas_noticias.xml" value="0.38385416666666666" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.38385416666666666" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/drawable/gradient.xml" value="0.38385416666666666" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/drawable/ic_launcher_background.xml" value="0.38385416666666666" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/activity_ajustes.xml" value="0.36770833333333336" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/activity_lector_qr.xml" value="0.33" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/activity_maps.xml" value="0.33" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/content_activity_opciones.xml" value="0.1796875" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/dialogo_info_venta.xml" value="0.18" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/dialogo_paradas_cercanas.xml" value="0.36770833333333336" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/dialogo_planificador_rutas.xml" value="0.36770833333333336" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/dialogo_puntos_venta.xml" value="0.33" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/diseno_lista_estacionarios.xml" value="0.5489891135303266" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/diseno_lista_horario.xml" value="0.36770833333333336" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/diseno_lista_paradas.xml" value="0.36770833333333336" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/diseno_ultimos_avisos.xml" value="0.5" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/fragment_favoritos.xml" value="0.25" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/fragment_guaguas.xml" value="0.33" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/fragment_horarios.xml" value="0.36770833333333336" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/fragment_listado.xml" value="0.33" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/fragment_noticias.xml" value="0.36770833333333336" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/fragment_opciones_secundarias.xml" value="0.36770833333333336" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/mipmap-anydpi-v26/ic_guagua.xml" value="0.38385416666666666" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/mipmap-anydpi-v26/ic_guagua_round.xml" value="0.38385416666666666" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/mipmap-anydpi-v26/ic_logo.xml" value="0.30885416666666665" />
+        <entry key="..\:/Clase/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/mipmap-anydpi-v26/ic_logo_round.xml" value="0.30885416666666665" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/drawable-anydpi/icono_puntos_venta.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/drawable-anydpi/icono_ventas_mapa.xml" value="0.1" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/drawable-anydpi/iconoguagua.xml" value="0.31302083333333336" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/drawable/bottomborder.xml" value="0.375" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/drawable/topborder.xml" value="0.375" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/activity_abrir_horarios.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/activity_maps.xml" value="0.33" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/activity_navegador_horario.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/dialogo_info_venta.xml" value="0.75" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/dialogo_paradas_cercanas.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/dialogo_planificador_rutas.xml" value="0.45993485342019547" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/dialogo_puntos_venta.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/diseno_info_parada.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/diseno_lista_estacionarios.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/diseno_lista_horario.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/diseno_lista_paradas.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/diseno_ultimos_avisos.xml" value="0.42023809523809524" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/fragment_favoritos.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/fragment_guaguas.xml" value="0.33" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/fragment_horarios.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/fragment_listado.xml" value="0.5" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/fragment_noticias.xml" value="0.33" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/fragment_opciones_secundarias.xml" value="0.33" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/layout/layout_cargando.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/chris/OneDrive/Desktop/Proyecto Transportes Tenerife/PracticaGuiada/app/src/main/res/mipmap-anydpi-v26/icon_puntos_venta.xml" value="0.38385416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

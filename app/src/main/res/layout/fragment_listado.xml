@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/topborder"
+    android:backgroundTint="@color/azulFondos"
+    tools:context="ficheros.TransportesTenerife.practicaguiada.Vistas.MapsActivity">
+
+    <Button
+        android:id="@+id/botonCerrarListado"
+        android:layout_width="0dp"
+        android:layout_height="36dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="25dp"
+        android:background="@drawable/dummybug"
+        android:backgroundTint="@color/white"
+        android:drawableTop="@drawable/icon_arrow_up"
+        android:elevation="15dp"
+        android:rotationX="180"
+        android:translationZ="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+
+    <EditText
+        android:id="@+id/editBuscador"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:backgroundTint="@color/textoNegroDia"
+        android:backgroundTintMode="multiply"
+        android:drawableRight="@drawable/icono_buscar"
+        android:ems="10"
+        android:hint="@string/textoBuscarGuagua"
+        android:inputType="textPersonName"
+        android:maxLength="20"
+        android:textColor="@color/textoNegroDia"
+        android:textColorHint="@color/textoNegroDia"
+        android:textColorLink="@color/textoNegroDia"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.025" />
+
+    <androidx.core.widget.NestedScrollView
+        android:id="@+id/nestedNoticias"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/dummybug"
+        android:backgroundTint="@color/azul"
+        android:elevation="5dp"
+        android:fillViewport="true"
+        app:layout_constraintBottom_toTopOf="@+id/botonCerrarListado"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editBuscador"
+        app:layout_constraintVertical_bias="0.75">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:orientation="vertical">
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/listaNoticias"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:elevation="5dp"
+        app:layout_constraintBottom_toBottomOf="@+id/nestedNoticias"
+        app:layout_constraintEnd_toEndOf="@+id/nestedNoticias"
+        app:layout_constraintStart_toStartOf="@+id/nestedNoticias"
+        app:layout_constraintTop_toTopOf="@+id/nestedNoticias" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

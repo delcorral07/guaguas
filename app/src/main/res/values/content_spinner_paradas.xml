@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="distancias">
+        <item>Elige una distancia</item>
+        <item>200 metros</item>
+        <item>500 metros</item>
+        <item>1 kilómetro</item>
+        <item>2 kilómetros</item>
+        <item>3 kilómetros</item>
+        <item>5 kilómetros</item>
+    </string-array>
+</resources>

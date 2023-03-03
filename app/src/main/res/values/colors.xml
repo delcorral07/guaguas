@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="azul">#5898D4</color>
+    <color name="azulOscuro">#0091CC</color>
+    <color name="azulOscurisimo">#006C99</color>
+    <color name="MarronClarito">#B87B02</color>
+    <color name="marronMasClarito">#B59D02</color>
+    <color name="azulFlojito">#99E2FF</color>
+    <color name="azulFondos">#91D0FF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textoNegroDia">#333533</color>
+
+
+    <color name="verdeOscuro">#8FCC00</color>
+
+</resources>

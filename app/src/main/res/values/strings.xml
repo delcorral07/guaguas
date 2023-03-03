@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Transportes Tenerife</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="titleContBuses">Estaciones de Guaguas</string>
+    <string name="permisoDenegado">No se ha concedido permisos de ubicación</string>
+    <string name="llevame">Llévame allí</string>
+    <string name="botonInfoParada">Ver parada</string>
+    <string name="direccionIsora">Avenida de Isora</string>
+    <string name="MiUbicacion">¿Dónde estoy?</string>
+    <string name="Estaciones">Estaciones</string>
+    <string name="linea">Línea</string>
+    <string name="parada">Parada</string>
+    <string name="none">000</string>
+    <string name="cambiarSentido">Cambiar el sentido</string>
+    <string name="verHorarios">Ver horarios</string>
+    <string name="verMapa">Ver en mapa</string>
+    <string name="tiempoRestante">minutos</string>
+    <string name="textoBuscarGuagua">Busca por número de guagua o parada</string>
+    <string name="title_activity_abrir_horarios">abrirHorarios</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ver_parada">Ver parada</string>
+    <string name="favoritas">Favoritas</string>
+    <string name="limpiar_mapa">Limpiar mapa</string>
+    <string name="l_neas_y_paradas_favoritas">Líneas y paradas favoritas</string>
+    <string name="como_llegar">Cómo llegar</string>
+    <string name="punto_de_venta">Punto de venta</string>
+    <string name="nombre_del_establecimiento">Nombre del establecimiento</string>
+    <string name="direccion_stab">Dirección del establecimiento</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="paradasCercaUser">Buscar paradas cerca de ti</string>
+    <string name="buscar">Buscar</string>
+    <string name="buscarParadasTitle">Buscar paradas a:</string>
+    <string name="direccion">Dirección</string>
+    <string name="origen">Origen...</string>
+    <string name="planificar">Planificar</string>
+    <string name="destino">Destino...</string>
+    <string name="planificador_de_viajes">Planificador de viajes</string>
+    <string name="puntos_de_venta">Puntos de venta</string>
+    <string name="buscar_puntos">Buscar puntos</string>
+    <string name="ver_todos_los_puntos_de_venta">Ver todos los puntos de venta</string>
+    <string name="puntos_de_venta_por_poblaciones">Puntos de venta por poblaciones</string>
+    <string name="puntos_de_venta_cerca_de_mi">Puntos de venta cerca de mi</string>
+    <string name="paradas_cerca">Paradas cerca</string>
+    <string name="planificador">Planificador</string>
+    <string name="ultimasNoticas">Últimas noticias</string>
+    <string name="cambiarTema">Cambiar tema</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="todo">TODO</string>
+    <string name="ver_m_s">Ver más...</string>
+    <string name="title_activity_opciones">activityOpciones</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="texto_escaner">Escanea los códigos QR que encuentras en las paradas de guagua</string>
+
+</resources>

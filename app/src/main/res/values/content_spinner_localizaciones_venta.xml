@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="poblaciones">
+        <item>Abades</item>
+        <item>Adeje</item>
+        <item>Alcala</item>
+        <item>Arafo</item>
+        <item>Arico</item>
+        <item>Arico Viejo</item>
+        <item>Arona</item>
+        <item>Añaza</item>
+        <item>Barranco Grande</item>
+        <item>Buenavista Del Norte</item>
+        <item>Buzanada</item>
+        <item>Cabo Blanco</item>
+        <item>Candelaria</item>
+        <item>Chimiche</item>
+        <item>Chio</item>
+        <item>Costa Adeje</item>
+        <item>Costa Del Silencio</item>
+        <item>El Fraile</item>
+        <item>El Medano</item>
+        <item>El Puerto De La Cruz</item>
+        <item>El Rosario</item>
+        <item>El Sauzal</item>
+        <item>El Tablero</item>
+        <item>El Tanque</item>
+        <item>Fasnia</item>
+        <item>Finca España</item>
+        <item>Garachico</item>
+        <item>Golf Del Sur</item>
+        <item>Granadilla</item>
+        <item>Granadilla De Abona</item>
+        <item>Guargacho</item>
+        <item>Guia De Isora</item>
+        <item>Güímar</item>
+        <item>Icod De Los Vinos</item>
+        <item>La Cuesta</item>
+        <item>La Esperanza</item>
+        <item>La Guancha</item>
+        <item>La Matanza De Acentejo</item>
+        <item>La Orotava</item>
+        <item>La Victoria</item>
+        <item>Las Americas</item>
+        <item>Las Caletillas</item>
+        <item>Las Canteras</item>
+        <item>Las Chafiras</item>
+        <item>Las Galletas</item>
+        <item>Las Mercedes</item>
+        <item>Los Abrigos</item>
+        <item>Los Andenes</item>
+        <item>Los Cristianos</item>
+        <item>Los Gigantes</item>
+        <item>Los Majuelos</item>
+        <item>Los Realejos</item>
+        <item>Los Reales</item>
+        <item>Los Silos</item>
+        <item>Ofra</item>
+        <item>Plan De San Juan</item>
+        <item>Playa De Las Americas</item>
+        <item>Playa Las Americas</item>
+        <item>Playa Paraiso</item>
+        <item>Playa San Juan</item>
+        <item>Puerto De La Cruz</item>
+        <item>Puerto De Santa Cruz</item>
+        <item>Puerto De Santiago</item>
+        <item>Punta Hidalgo</item>
+        <item>San Cristobal De La Laguna</item>
+        <item>San Eugenio</item>
+        <item>San Isidro</item>
+        <item>San Isidro De Abona</item>
+        <item>San Juan De La Rambla</item>
+        <item>San Miguel</item>
+        <item>San Miguel De Abona</item>
+        <item>Santa Cruz De Tenerife</item>
+        <item>Santa Maria Del Mar</item>
+        <item>Santa Ursula</item>
+        <item>Santiago Del Teide</item>
+        <item>Tabaiba Baja</item>
+        <item>Taco</item>
+        <item>Tacoronte</item>
+        <item>Tamaino</item>
+        <item>Teguesta</item>
+        <item>Tegueste</item>
+        <item>Tejina</item>
+        <item>Valle De San Lorenzo</item>
+        <item>Valle Guerra</item>
+        <item>Valleseco</item>
+        <item>Vilaflor</item>
+        <item>Villa De Arico</item>
+    </string-array>
+</resources>

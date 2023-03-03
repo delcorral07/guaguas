@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="350dp"
+    android:layout_height="470dp"
+    android:layout_gravity="center"
+    android:foregroundTint="@color/white"
+    android:visibility="visible">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:cardCornerRadius="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/dummybug"
+            android:backgroundTint="@color/azulFondos">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/constraintLayout"
+                android:layout_width="0dp"
+                android:layout_height="100dp"
+                android:background="@drawable/topborder"
+                android:backgroundTint="@color/azulOscuro"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.0">
+
+                <TextView
+                    android:id="@+id/textView8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/puntos_de_venta"
+                    android:textColor="@color/textoNegroDia"
+                    android:textSize="26sp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <Spinner
+                android:id="@+id/spinnerDialogoVentas"
+                android:layout_width="0dp"
+                android:layout_height="43dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginEnd="30dp"
+                android:layout_marginBottom="30dp"
+                android:background="@drawable/dummybug"
+                android:elevation="10dp"
+                android:entries="@array/distancias"
+                app:layout_constraintBottom_toTopOf="@+id/linearLayout3"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.441"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/constraintLayout"
+                app:layout_constraintVertical_bias="1.0" />
+
+
+            <LinearLayout
+                android:id="@+id/linearLayout3"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:gravity="center|center_vertical"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.95">
+
+                <Button
+                    android:id="@+id/btDialogCancelarVenta"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/dummybug"
+                    android:backgroundTint="#C6A0A0"
+                    android:elevation="10dp"
+                    android:text="@string/cerrar" />
+
+                <Button
+                    android:id="@+id/btDialogBuscarVenta"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/dummybug"
+                    android:backgroundTint="@color/white"
+                    android:elevation="10dp"
+                    android:text="@string/buscar_puntos"
+                    android:textColor="@color/textoNegroDia" />
+            </LinearLayout>
+
+            <RadioGroup
+                android:id="@+id/radioGroup"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintBottom_toTopOf="@+id/spinnerDialogoVentas"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="@+id/spinnerDialogoVentas"
+                app:layout_constraintTop_toBottomOf="@+id/constraintLayout">
+
+                <RadioButton
+                    android:id="@+id/rdTodosPuntos"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:buttonTint="@color/textoNegroDia"
+                    android:text="@string/ver_todos_los_puntos_de_venta"
+                    android:textAlignment="textStart"
+                    android:textColorHighlight="@color/textoNegroDia"
+                    android:textColorLink="@color/textoNegroDia"
+                    android:textSize="14dp" />
+
+                <RadioButton
+                    android:id="@+id/rdPuntosMunicipios"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:buttonTint="@color/textoNegroDia"
+                    android:text="@string/puntos_de_venta_por_poblaciones"
+                    android:textAlignment="textStart"
+                    android:textColorHighlight="@color/textoNegroDia"
+                    android:textColorLink="@color/textoNegroDia"
+                    android:textSize="14dp" />
+
+                <RadioButton
+                    android:id="@+id/rdPuntosCerca"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:buttonTint="@color/textoNegroDia"
+                    android:text="@string/puntos_de_venta_cerca_de_mi"
+                    android:textAlignment="textStart"
+                    android:textColorHighlight="@color/textoNegroDia"
+                    android:textColorLink="@color/textoNegroDia"
+                    android:textSize="14dp" />
+            </RadioGroup>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

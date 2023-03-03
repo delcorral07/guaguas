@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="municipios">
+        <item>Selecciona un municipio</item>
+        <item>Adeje</item>
+        <item>Arafo</item>
+        <item>Arico</item>
+        <item>Arona</item>
+        <item>Buenavista del Norte</item>
+        <item>Candelaria</item>
+        <item>El Rosario</item>
+        <item>El Sauzal</item>
+        <item>El Tanque</item>
+        <item>Fasnia</item>
+        <item>Garachico</item>
+        <item>Granadilla de Abona</item>
+        <item>Guía de Isora</item>
+        <item>Güímar</item>
+        <item>Icod de los Vinos</item>
+        <item>La Guancha</item>
+        <item>La Matanza de Acentejo</item>
+        <item>La Orotava</item>
+        <item>La Victoria de Acentejo</item>
+        <item>Los Realejos</item>
+        <item>Los Silos</item>
+        <item>Puerto de la Cruz</item>
+        <item>San Cristóbal de La Laguna</item>
+        <item>San Juan de la Rambla</item>
+        <item>San Miguel de Abona</item>
+        <item>Santa Cruz de Tenerife</item>
+        <item>Santa Úrsula</item>
+        <item>Santiago del Teide</item>
+        <item>Tacoronte</item>
+        <item>Tegueste</item>
+        <item>Vilaflor de Chasna</item>
+    </string-array>
+</resources>
